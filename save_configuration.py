@@ -72,4 +72,4 @@ for a_device in all_devices:
 
 end_time = datetime.now()
 total_time = end_time - start_time
-print total_time
+print total_time 
